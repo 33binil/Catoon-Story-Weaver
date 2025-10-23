@@ -1,0 +1,5 @@
+{
+  "name": "Cartoon Story Generator",
+  "description": "An application that generates short, fun cartoon stories from user prompts and converts them into audio using Gemini API. Users can either type a custom prompt or choose from a selection of shuffled, pre-defined headings.",
+  "requestFramePermissions": []
+}
